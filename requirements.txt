@@ -1,0 +1,9 @@
+Here is the correct requirements.txt content for your Diabetes Prediction Tkinter + ML project (training + GUI + EXE build ready):
+
+numpy
+pandas
+scikit-learn
+python-dateutil
+pytz
+joblib
+pyinstaller
